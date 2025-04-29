@@ -36,5 +36,20 @@ Puedes modificar los estilos en el archivo CSS para adaptar el editor a tus pref
 - La previsualización se actualiza automáticamente al detectar cambios en el editor.
 - El editor es compatible con la mayoría de los navegadores modernos.
 
-## Licencia
-Este proyecto está disponible bajo la licencia MIT. Siéntete libre de usarlo y modificarlo según tus necesidades.
+---
+## Notas técnicas  
+El desarrollo de este proyecto contó con asistencia de herramientas de IA para generación de código y optimizaciones.
+
+## Licencia  
+© 2024 - Wiliam Trujillo.  
+Este proyecto está bajo la licencia (ver archivo `LICENSE`).  
+
+## Dependencias y créditos  
+- [CodeMirror](https://codemirror.net/) (MIT): Editor de código.  
+- [MathJax](https://www.mathjax.org/) (Apache 2.0): Renderizado de fórmulas.  
+
+## Inspiración  
+Interfaces de editores como [LaTeXLive](https://www.latexlive.com/) y [CodeGogs](https://editor.codecogs.com), aunque este diseño es original.  
+
+## Notas técnicas  
+Asistencia de IA utilizada para generación de código y optimizaciones.  
