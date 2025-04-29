@@ -12,11 +12,6 @@ Este proyecto es un editor LaTeX interactivo que permite escribir código LaTeX 
   - Limpiar el editor.
   - Insertar un ejemplo predefinido.
 
-## Tecnologías utilizadas
-- [CodeMirror](https://codemirror.net/): Para el editor de código con resaltado de sintaxis.
-- [MathJax](https://www.mathjax.org/): Para renderizar las fórmulas matemáticas.
-- HTML, CSS y JavaScript: Para la estructura, estilos y funcionalidad.
-
 ## Cómo usar
 1. **Escribe tu código LaTeX** en el editor.
 2. **Inserta símbolos** utilizando los botones de las categorías disponibles.
@@ -40,16 +35,12 @@ Puedes modificar los estilos en el archivo CSS para adaptar el editor a tus pref
 ## Notas técnicas  
 El desarrollo de este proyecto contó con asistencia de herramientas de IA para generación de código y optimizaciones.
 
-## Licencia  
-© 2024 - Wiliam Trujillo.  
-Este proyecto está bajo la licencia (ver archivo `LICENSE`).  
+## Permisos e inspiración  
+- Este proyecto está bajo la licencia (`LICENSE`).
+- El proyecto fue inspirado en los editores [LaTeXLive](https://www.latexlive.com/) y [CodeGogs](https://editor.codecogs.com),  pero el diseño es original © 2024 - [@WTHerrera](https://github.com/WTHerrera)  
 
 ## Dependencias y créditos  
-- [CodeMirror](https://codemirror.net/) (MIT): Editor de código.  
-- [MathJax](https://www.mathjax.org/) (Apache 2.0): Renderizado de fórmulas.  
-
-## Inspiración  
-Interfaces de editores como [LaTeXLive](https://www.latexlive.com/) y [CodeGogs](https://editor.codecogs.com), aunque este diseño es original.  
-
-## Notas técnicas  
-Asistencia de IA utilizada para generación de código y optimizaciones.  
+- [CodeMirror](https://codemirror.net/): Para el editor de código con resaltado de sintaxis.  
+- [MathJax](https://www.mathjax.org/) (Apache 2.0): Para renderizado de fórmulas.
+- HTML, CSS y JavaScript: Para la estructura, estilos y funcionalidad.
+---
